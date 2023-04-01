@@ -1,1 +1,1 @@
-vless://4f4cb9ac-cf1c-11ed-9d25-7b2a0dd6b3ec@mtn.fimmoviee.xyz:443?encryption=none&security=tls&sni=ca&type=ws&host=ca1-vless.tunnel.cx&path=%2Fvless#akunssh-etheth
+vless://da265015-b0a0-4fba-b779-2fedeb2bc748@de1.vl.xservs.xyz:443?encryption=none&security=tls&sni=de&type=ws&host=de1.vl.xservs.xyz&path=%2Fvless#sshstores-wbogrrw
