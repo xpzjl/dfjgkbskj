@@ -1,1 +1,1 @@
-vless://da265015-b0a0-4fba-b779-2fedeb2bc748@de1.vl.xservs.xyz:443?encryption=none&security=tls&sni=de&type=ws&host=de1.vl.xservs.xyz&path=%2Fvless#sshstores-wbogrrw
+trojan://f25a79a4-bc2f-4b2e-b476-ac67b804c891@ltt1.sshocean.net:443?security=tls&sni=ltt1.sshocean.net&type=ws&host=ltt1.sshocean.net&path=%2Fwebsocket#sshocean-asvkqg_trojan_ws
