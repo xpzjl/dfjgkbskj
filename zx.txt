@@ -1,0 +1,1 @@
+vless://4f4cb9ac-cf1c-11ed-9d25-7b2a0dd6b3ec@mtn.fimmoviee.xyz:443?encryption=none&security=tls&sni=ca&type=ws&host=ca1-vless.tunnel.cx&path=%2Fvless#akunssh-etheth
