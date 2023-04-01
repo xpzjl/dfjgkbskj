@@ -12,3 +12,4 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImdiIiwNCiAgImFkZCI6ICJtdG4uZmltbW92aWVl
 vless://da265015-b0a0-4fba-b779-2fedeb2bc748@mtn.fimmoviee.xyz:443?encryption=none&security=tls&sni=GERMANY&type=ws&host=vl-gr.fimmoviee.xyz&path=vless#sshstores-wbogrrw
 vless://f85e05b7-d088-4a1a-a66c-c076ce5fb606@fr1.vl.xservs.xyz:443?encryption=none&security=tls&sni=FRANCE&type=ws&host=vl-fr.fimmoviee.xyz&path=vless#sshstores-oefbv3r
 vless://4172883f-5002-40a5-b43a-25d09db31552@uk3.v2vless.xyz:443?encryption=none&security=tls&sni=UK&type=ws&host=vl-uk.fimmoviee.xyz&path=%2Fvless#sshocean-owebuv3rg
+trojan://f25a79a4-bc2f-4b2e-b476-ac67b804c891@mtn.fimmoviee.xyz:443?security=tls&sni=lituania&type=ws&host=tr-lt.fimmoviee.xyz&path=%2Fwebsocket#sshocean-asvkqg_trojan_ws
