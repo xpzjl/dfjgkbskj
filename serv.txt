@@ -11,5 +11,5 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImNhIiwNCiAgImFkZCI6ICJtdG4uZmltbW92aWVl
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImdiIiwNCiAgImFkZCI6ICJtdG4uZmltbW92aWVlLnh5eiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI5YjNkYTM1NC0zMGY4LTQ0NzAtOTc4OC00MDgxMWU4ZWI5YmEiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInZtLWdiLmZpbW1vdmllZS54eXoiLA0KICAicGF0aCI6ICIvdm1lc3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAi8J+HrPCfh6ctMiIsDQogICJhbHBuIjogIiINCn0=
 vless://da265015-b0a0-4fba-b779-2fedeb2bc748@mtn.fimmoviee.xyz:443?encryption=none&security=tls&sni=GERMANY&type=ws&host=vl-gr.fimmoviee.xyz&path=vless#sshstores-wbogrrw
 vless://f85e05b7-d088-4a1a-a66c-c076ce5fb606@fr1.vl.xservs.xyz:443?encryption=none&security=tls&sni=FRANCE&type=ws&host=vl-fr.fimmoviee.xyz&path=vless#sshstores-oefbv3r
-vless://4172883f-5002-40a5-b43a-25d09db31552@uk3.v2vless.xyz:443?encryption=none&security=tls&sni=UK&type=ws&host=vl-uk.fimmoviee.xyz&path=%2Fvless#sshocean-owebuv3rg
+vless://494de884-11bc-46e8-a740-5d5c4f12bc55@gb2.vl.xservs.xyz:443?encryption=none&security=tls&sni=UK&type=ws&host=vl-uk.fimmoviee.xyz&path=%2Fvless#sshstores-fpvwbgfr
 trojan://f25a79a4-bc2f-4b2e-b476-ac67b804c891@mtn.fimmoviee.xyz:443?security=tls&sni=lituania&type=ws&host=tr-lt.fimmoviee.xyz&path=%2Fwebsocket#sshocean-asvkqg_trojan_ws
