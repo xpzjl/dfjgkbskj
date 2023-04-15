@@ -18,3 +18,5 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7jwn4eqIiwNCiAgImFkZCI6ICJtdG4uZmlt
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7rwn4e4LTEiLA0KICAiYWRkIjogIm10bi5maW1tb3ZpZWUueHl6IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjA3MDY0ZDg5LWZiOGQtNGE1NS1iYWZiLTZmNWQ0NTA4ODhiMSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAidm0tdWEuZmltbW92aWVlLnh5eiIsDQogICJwYXRoIjogIi92bWVzcyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICLwn4e68J+HuC0xIiwNCiAgImFscG4iOiAiIg0KfQ==
 trojan://91567ca4-7354-48e4-83c1-803a96e984a7@mtn.fimmoviee.xyz:443?security=tls&sni=🇺🇸-2&type=ws&host=tr-ua.fimmoviee.xyz&path=%2Fwebsocket#%F0%9F%87%BA%F0%9F%87%B8-2
 vless://0513c4fc-b95b-40ce-b077-c0f2fec842fe@mtn.fimmoviee.xyz:443?encryption=none&security=tls&sni=🇺🇸-3&type=ws&host=vl-us.fimmoviee.xyz&path=%2Fvless#%F0%9F%87%BA%F0%9F%87%B8-3
+vless://ca8a2361-4a3c-4dc0-9a16-107807404643@mtn.fimmoviee.xyz:443?encryption=none&security=tls&sni=🇪🇭&type=ws&host=is.fimmoviee.xyz&path=%2Fvless#israel
+
