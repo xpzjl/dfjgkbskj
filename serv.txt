@@ -16,5 +16,5 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIm9wZW50dW5uZWwubmV0LXBzZmluaHNmaCIsDQog
 vless://698f50f1-e0df-4d43-ae24-9771b6af9f30@abi.fimmoviee.xyz:443?type=ws&security=tls&host=ae1.fimmoviee.xyz&path=/vless&sni=%F0%9F%87%A6%F0%9F%87%AA#sshstores-Hxjdjd
 trojan://19e577f0-78fa-4ab0-b6b8-4703b83e8a6e@89.116.250.125:443?security=tls&sni=🇫🇷-1&type=ws&host=tr-fr-vh.fimmoviee.xyz&path=%2Fwebsocket#%F0%9F%87%AB%F0%9F%87%B7-1
 trojan://7b5a2a32-187e-4941-ab57-1a1694948854@89.116.250.125:443?security=tls&sni=🇬🇧-3&type=ws&host=tr-de-vh.fimmoviee.xyz&path=%2Fwebsocket#%F0%9F%87%AC%F0%9F%87%A7-3
-trojan://73cd6bc4-de51-4aa1-bd22-b1bd2f5422a1@89.116.250.125:443?security=tls&sni=🇱🇹&type=ws&host=%09%0D%0Atr-lt.fimmoviee.xyz%0D%0Atr-lt.fimmoviee.xyz&path=%2Fwebsocket#%F0%9F%87%B1%F0%9F%87%B9
+trojan://73cd6bc4-de51-4aa1-bd22-b1bd2f5422a1@89.116.250.125:443?security=tls&sni=🇱🇹&type=ws&host=tr-lt.fimmoviee.xyz&path=%2Fwebsocket#%F0%9F%87%B1%F0%9F%87%B9
 trojan://bb042ad7-9e7c-4d61-b276-a84143063357@89.116.250.125:443?security=tls&sni=🇫🇷-2&type=ws&host=tr-fr1.fimmoviee.xyz&path=%2Fwebsocket#%F0%9F%87%AB%F0%9F%87%B7-2
