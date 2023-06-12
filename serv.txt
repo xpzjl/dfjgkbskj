@@ -1,3 +1,4 @@
 trojan://9223eaa3-9861-489c-94a8-6792f73a4461@abi.fimmoviee.xyz:443?security=tls&sni=🇱🇹&type=ws&host=tr-lt.fimmoviee.xyz&path=%2Fwebsocket#%F0%9F%87%B1%F0%9F%87%B9
 vless://2dca07e3-1bf5-4c4f-80e7-c8307d9e84ec@abi.fimmoviee.xyz:443?encryption=none&security=tls&sni=🇮🇳&type=ws&host=vl-in-sst.fimmoviee.xyz&path=%2Fvless#%F0%9F%87%AE%F0%9F%87%B3
 trojan://2f37b02e-84a0-45d5-a971-216847fc6898@abi.fimmoviee.xyz:443?security=tls&sni=🇨🇦-1&type=ws&host=tr-ca.fimmoviee.xyz&path=%2Fwebsocket#%F0%9F%87%A8%F0%9F%87%A6-1
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh6nwn4eqIiwNCiAgImFkZCI6ICJhYmkuZmltbW92aWVlLnh5eiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI2NzdlZGIxOC0wODc5LTExZWUtODI5NS00ZmJlZDg3YjJhNDQiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInZtLWdlLWFrLmZpbW1vdmllZS54eXoiLA0KICAicGF0aCI6ICIvdm1lc3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAi8J+HqfCfh6oiLA0KICAiYWxwbiI6ICIiDQp9
