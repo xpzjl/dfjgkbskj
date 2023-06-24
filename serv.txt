@@ -6,3 +6,4 @@ trojan://86e577b0-54c2-450d-8ad0-55b803c4d384@abi.fimmoviee.xyz:443?security=tls
 trojan://c0596f25-02e7-40e4-b2c7-25bf4fada0c1@abi.fimmoviee.xyz:443?security=tls&sni=Trojan-🇺🇸-1&type=ws&host=tr-ua.fimmoviee.xyz&path=%2F#Trojan-%F0%9F%87%BA%F0%9F%87%B8-1
 trojan://857668ba-0c4b-4706-b3a2-236635ff611d@abi.fimmoviee.xyz:443?security=tls&sni=Trojan-🇫🇷-1&type=ws&host=tr-fr-vh.fimmoviee.xyz&path=%2Fwebsocket#Trojan-%F0%9F%87%AB%F0%9F%87%B7-1
 trojan://2729024c-9053-43ae-a3a2-05a31f7aad76@abi.fimmoviee.xyz:443?security=tls&sni=Trojan-🇫🇷-2&type=ws&host=tr-fr-sso.fimmoviee.xyz&path=%2F#Trojan-%F0%9F%87%AB%F0%9F%87%B7-2
+trojan://54568b31-3c1c-4996-94d1-176af3e8706a@abi.fimmoviee.xyz:443?security=tls&sni=Trojan-🇱🇹-1&type=ws&host=tr-lt.fimmoviee.xyz&path=%2Fwebsocket#Trojan-%F0%9F%87%B1%F0%9F%87%B9-1
