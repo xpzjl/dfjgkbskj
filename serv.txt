@@ -7,3 +7,5 @@ trojan://38c39849-8e2e-4837-a762-b2b912fcf297@abi.fimmoviee.xyz:443?security=tls
 trojan://54507ca5-0835-4496-8ede-2fc69dde06ce@abi.fimmoviee.xyz:443?security=tls&sni=tr-us-sso.fimmoviee.xyz&type=ws&host=tr-us-sso.fimmoviee.xyz&path=%2Fwebsocket#sshocean-dgjndgj_trojan_ws
 trojan://4a24303c-0fc1-45ff-919b-85acd20126fc@abi.fimmoviee.xyz:443?security=tls&sni=tr-ca-sso.fimmoviee.xyz&type=ws&host=tr-ca-sso.fimmoviee.xyz&path=%2Fwebsocket#sshocean-dgjndgj_trojan_ws
 trojan://4b27c0dd-6d89-4a3e-b82d-e135478c19b5@abi.fimmoviee.xyz:443?type=ws&security=tls&host=tr-lt.fimmoviee.xyz&sni=tr-lt.fimmoviee.xyz#Server-Trojan-%F0%9F%87%B1%F0%9F%87%B9
+trojan://b4b1d984-e93e-4ebd-985e-31b569eb493e@abi.fimmoviee.xyz:443?security=tls&sni=tr-us2-gss.fimmoviee.xyz&type=ws&host=tr-us2-gss.fimmoviee.xyz&path=%2Fwebsocket#sshocean-dgjndgj_trojan_ws
+trojan://bffea952-cae9-4e2c-8135-b29414ce9475@abi.fimmoviee.xyz:443?security=tls&sni=tr-us1-gss.fimmoviee.xyz&type=ws&host=tr-us1-gss.fimmoviee.xyz&path=%2Fwebsocket#sshocean-dgjndgj_trojan_ws
