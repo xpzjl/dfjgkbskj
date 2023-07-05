@@ -9,3 +9,6 @@ trojan://4a24303c-0fc1-45ff-919b-85acd20126fc@abi.fimmoviee.xyz:443?security=tls
 trojan://4b27c0dd-6d89-4a3e-b82d-e135478c19b5@abi.fimmoviee.xyz:443?type=ws&security=tls&host=tr-lt.fimmoviee.xyz&sni=tr-lt.fimmoviee.xyz#Server-Trojan-%F0%9F%87%B1%F0%9F%87%B9
 trojan://b4b1d984-e93e-4ebd-985e-31b569eb493e@abi.fimmoviee.xyz:443?security=tls&sni=tr-us2-gss.fimmoviee.xyz&type=ws&host=tr-us2-gss.fimmoviee.xyz&path=%2Fwebsocket#sshocean-dgjndgj_trojan_ws
 trojan://bffea952-cae9-4e2c-8135-b29414ce9475@abi.fimmoviee.xyz:443?security=tls&sni=tr-us1-gss.fimmoviee.xyz&type=ws&host=tr-us1-gss.fimmoviee.xyz&path=%2Fwebsocket#sshocean-dgjndgj_trojan_ws
+vless://1a4a54b3-eb24-4d9e-890a-b7f42dcb7de2@abi.fimmoviee.xyz:443?encryption=none&security=tls&sni=vl-us1-ss.fimmoviee.xyz&type=ws&host=vl-us1-ss.fimmoviee.xyz&path=%2Fvless#sshstores-adgagsf
+vless://91c2a4c1-ffb3-4797-a0c1-d7d9fc1858fa@abi.fimmoviee.xyz:443?encryption=none&security=tls&sni=vl-mx-sst.fimmoviee.xyz&type=ws&host=vl-mx-sst.fimmoviee.xyz&path=%2Fvless#sshstores-adgagsf
+vless://26597987-d898-4c04-a486-f71914875052@abi.fimmoviee.xyz:443?encryption=none&security=tls&sni=vl-sa-sst.fimmoviee.xyz&type=ws&host=vl-sa-sst.fimmoviee.xyz&path=%2Fvless#sshstores-adgagsf
