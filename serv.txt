@@ -1,9 +1,1 @@
-trojan://2959e4f7-7589-4a40-9b96-1be750ac7845@abi.fimmoviee.xyz:443?security=tls&sni=tr-pl-vh.fimmoviee.xyz&type=ws&host=tr-pl-vh.fimmoviee.xyz&path=%2Fwebsocket#Server-Trojan-tr-pl-vh.fimmoviee.xyz
-trojan://befbcf69-a3c4-4b29-99d5-cab8f69169d8@abi.fimmoviee.xyz:443?security=tls&sni=tr-ca-vh.fimmoviee.xyz&type=ws&host=tr-ca-vh.fimmoviee.xyz&path=%2Fwebsocket#Server-Trojantr-ca-vh.fimmoviee.xyz
-trojan://6080527b-d63b-4f2f-9112-365106b62cb5@abi.fimmoviee.xyz:443?security=tls&sni=tr-uk-vh.fimmoviee.xyz&type=ws&host=tr-uk-vh.fimmoviee.xyz&path=%2Fwebsocket#Server-Trojan-tr-uk-vh.fimmoviee.xyz
-trojan://4bf26b73-d12d-44f4-86d2-8e5859587132@abi.fimmoviee.xyz:443?security=tls&sni=tr-fr-sso.fimmoviee.xyz&type=ws&host=tr-fr-sso.fimmoviee.xyz&path=%2F#Server-Trojan-tr-fr-sso.fimmoviee.xyz
-trojan://45ead26a-e3fa-484d-a14a-8cedbd23bcc9@abi.fimmoviee.xyz:443?security=tls&sni=tr-fr-vh.fimmoviee.xyz&type=ws&host=tr-fr-vh.fimmoviee.xyz&path=%2Fwebsocket#Server-Trojan-tr-fr-vh.fimmoviee.xyz
-trojan://b99d31d5-8947-4470-bad5-0af5570b28eb@abi.fimmoviee.xyz:443?security=tls&sni=tr-us1-sso.fimmoviee.xyz&type=ws&host=tr-us1-sso.fimmoviee.xyz&path=%2Fwebsocket#Server-Trojan-tr-us1-sso.fimmoviee.xyz
-trojan://c7289cde-b83a-4a60-aa45-9623c3490afb@abi.fimmoviee.xyz:443?security=tls&sni=tr-ge-sso.fimmoviee.xyz&type=ws&host=tr-ge-sso.fimmoviee.xyz&path=%2F#Server-Trojan-tr-ge-sso.fimmoviee.xyz
-trojan://d19c9ef3-64c8-4f32-9d31-6b8ed23d16ca@abi.fimmoviee.xyz:443?security=tls&sni=tr-lt.fimmoviee.xyz&type=ws&host=tr-lt.fimmoviee.xyz&path=%2F#Server-Trojan-tr-lt.fimmoviee.xyz
-trojan://10097f5e-6366-4dd7-b799-3a88d9396540@abi.fimmoviee.xyz:443?security=tls&sni=tr-fr2-sso.fimmoviee.xyz&type=ws&host=tr-fr2-sso.fimmoviee.xyz&path=%2F#Server-Trojan-tr-fr2-sso.fimmoviee.xyz
+trojan://jaYMV19gZL@tr-de-ex.fimmoviee.xyz:55733?type=tcp&host=sourceforge.net&headerType=http&security=none#%F0%9F%94%92TR-TCP-NONE%F0%9F%8C%8DDE-5.75.192.40:55733%F0%9F%93%A1PING-118.32-MS
