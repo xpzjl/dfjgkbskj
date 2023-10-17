@@ -5,3 +5,5 @@ trojan://your_password@4.fimmoviee.xyz:443?type=ws&host=aws-us-oregon-1.f1rocket
 trojan://your_password@5.fimmoviee.xyz:443?type=ws&host=aws-id-jakarta-1.f1rocketnode.com&path=/f1rocket&security=tls&fp=chrome&sni=aws-id-jakarta-1.f1rocketnode.com#%F0%9F%94%92TR-WS-TLS%F0%9F%8C%8FID-43.218.139.54:443%F0%9F%93%A1PING-243.55-MS
 trojan://your_password@8.fimmoviee.xyz:443?type=ws&host=aws-aus-sydney-1.f1rocketnode.com&path=/f1rocket&security=tls&fp=chrome&sni=aws-aus-sydney-1.f1rocketnode.com#%F0%9F%94%92TR-WS-TLS%F0%9F%8C%8FAU-3.27.95.146:443%F0%9F%93%A1PING-204.08-MS
 trojan://your_password@8.fimmoviee.xyz:443?type=ws&host=aws-aus-sydney-1.f1rocketnode.com&path=/f1rocket&security=tls&fp=chrome&sni=aws-aus-sydney-1.f1rocketnode.com#%F0%9F%94%92TR-WS-TLS%F0%9F%8C%8FAU-3.27.95.146:443%F0%9F%93%A1PING-204.08-MS
+vless://1d0edd23-3e43-4b52-9a5c-c11d340b038f@9.fimmoviee.xyz:58952?type=tcp&security=reality&fp=chrome&sni=www.speedtest.net&pbk=jUhwXcMjbLWWGaPbF3WmBjkQfUiB_m_Sv_e_o5Wt1lo&sid=222a0b22#%F0%9F%94%92VL-TCP-RLT%F0%9F%87%A9%F0%9F%87%AADE-185.139.230.116:58952%F0%9F%93%A1PING-143.22-MS
+
