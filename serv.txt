@@ -6,4 +6,4 @@ trojan://your_password@5.fimmoviee.xyz:443?type=ws&host=aws-id-jakarta-1.f1rocke
 trojan://your_password@8.fimmoviee.xyz:443?type=ws&host=aws-aus-sydney-1.f1rocketnode.com&path=/f1rocket&security=tls&fp=chrome&sni=aws-aus-sydney-1.f1rocketnode.com#%F0%9F%94%92TR-WS-TLS%F0%9F%8C%8FAU-3.27.95.146:443%F0%9F%93%A1PING-204.08-MS
 trojan://your_password@8.fimmoviee.xyz:443?type=ws&host=aws-aus-sydney-1.f1rocketnode.com&path=/f1rocket&security=tls&fp=chrome&sni=aws-aus-sydney-1.f1rocketnode.com#%F0%9F%94%92TR-WS-TLS%F0%9F%8C%8FAU-3.27.95.146:443%F0%9F%93%A1PING-204.08-MS
 vless://1d0edd23-3e43-4b52-9a5c-c11d340b038f@9.fimmoviee.xyz:58952?type=tcp&security=reality&fp=chrome&sni=www.speedtest.net&pbk=jUhwXcMjbLWWGaPbF3WmBjkQfUiB_m_Sv_e_o5Wt1lo&sid=222a0b22#%F0%9F%94%92VL-TCP-RLT%F0%9F%87%A9%F0%9F%87%AADE-185.139.230.116:58952%F0%9F%93%A1PING-143.22-MS
-
+vless://4775c9e9-ec94-4dff-ecfd-38b5a0cebd7e@10.fimmoviee.xyz:8443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=greenpepper.ir&pbk=WSlJqgWD4turBK9V67MI6PuiNxRyCAf_zo3WivRrzC8&sid=27962c0f#%F0%9F%94%92VL-TCP-RLT%F0%9F%87%AB%F0%9F%87%AEFI-95.216.2.207:8443%F0%9F%93%A1PING-163.38-MS
