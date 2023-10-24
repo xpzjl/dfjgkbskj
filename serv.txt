@@ -4,7 +4,7 @@ vless://0eda758e-9a00-460d-b288-14308379ef50@11.centerdl.online:443?flow=xtls-rp
 vless://fe62e63e-425b-484e-b216-1ee4e5b941d5@12.centerdl.online:443?type=ws&host=12.centerdl.online&path=/VLESS&security=tls&sni=12.centerdl.online#%F0%9F%87%B8%F0%9F%87%AA-2-fv
 trojan://acd606e0-729e-11ee-88a8-1239d0255272@13.centerdl.online:443?type=ws&host=13.centerdl.online&path=/howdy&security=tls&sni=13.centerdl.online#%F0%9F%87%A9%F0%9F%87%AA-hwd
 trojan://350b2e20-729f-11ee-91b6-1239d0255272@14.centerdl.online:443?type=ws&host=14.centerdl.online&path=/howdy&security=tls&sni=14.centerdl.online#%F0%9F%87%B9%F0%9F%87%B7-hwd
-vless://59f94972-680f-4b1e-818d-296c6fef05af@15.centerdl.online:2083?type=tcp&security=reality&fp=chrome&sni=discord.com&pbk=AoVVD-FGx5-IC2fwjqH3B_0M3T-muzmULO73sw4BLGw&sid=057d35c3dd07892a#%F0%9F%94%92VL-TCP-RLT%F0%9F%87%AC%F0%9F%87%A7GB-212.71.245.61:2083%F0%9F%93%A1PING-111.05-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDekVTZDBKQ0hKckI=@15.centerdl.online:51348?type=tcp#%F0%9F%94%92SS-TCP-NA%F0%9F%87%B3%F0%9F%87%B1NL-193.0.179.84:51348%F0%9F%93%A1PING-121.12-MS
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@19.centerdl.online:8119?type=tcp#%F0%9F%94%92SS-TCP-NA%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.117:8119%F0%9F%93%A1PING-025.86-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoMWh1czI0dQ==@16.centerdl.online:4848?type=tcp#%F0%9F%94%92SS-TCP-NA%F0%9F%87%B3%F0%9F%87%B1NL-178.208.88.43:4848%F0%9F%93%A1PING-288.63-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZ3hEc0ttWlJ1ejR3UkNLeVhKZEps@17.centerdl.online:13928?type=tcp#%F0%9F%94%92SS-TCP-NA%F0%9F%87%AC%F0%9F%87%A7GB-51.105.36.101:13928%F0%9F%93%A1PING-075.98-MS
