@@ -1,3 +1,4 @@
+trojan://54e64390-78e6-11ee-9b83-1239d0255272@14.centerdl.online:443?type=ws&host=14.centerdl.online&path=/howdy&security=tls&sni=14.centerdl.online#%F0%9F%87%B9%F0%9F%87%B7-hwd
 trojan://ade021e0-7849-11ee-a5a4-1239d0255272@tr-fr-hwd.centerdl.online:443?type=ws&host=tr-fr-hwd.centerdl.online&path=/howdy&security=tls&sni=tr-fr-hwd.centerdl.online#%F0%9F%87%AB%F0%9F%87%B7-hwd
 trojan://7578951b-796a-4597-8776-ea1c6e961667@tr-us1-gss.centerdl.online:443?type=ws&host=tr-us1-gss.centerdl.online&path=/websocket&security=tls&sni=tr-us1-gss.centerdl.online#%F0%9F%87%BA%F0%9F%87%B8-gss
 trojan://26fc7feb-e843-49e9-af20-d0e4fb456f2e@tr-de-lss.centerdl.online:443?type=ws&host=tr-de-lss.centerdl.online&path=/xray-trojan/tls&security=tls&sni=tr-de-lss.centerdl.online#%F0%9F%87%A9%F0%9F%87%AA-lss
