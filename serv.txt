@@ -5,3 +5,5 @@ trojan://9706876e-5602-45d9-98e1-f113ffc98cb8@tr-uk-lss.centerdl.online:443?type
 trojan://04fc284b-bce0-4966-994a-db0e3cbc6d1b@tr-us2-gss.centerdl.online:443?type=ws&host=tr-us2-gss.centerdl.online&path=/websocket&security=tls&sni=tr-us2-gss.centerdl.online#%F0%9F%87%BA%F0%9F%87%B8-2-gss
 trojan://u4928017867@tr-de-ss8.centerdl.online:2087?type=ws&host=tr-de-ss8.centerdl.online&path=/trojango&security=tls&sni=tr-de-ss8.centerdl.online#%F0%9F%87%AB%F0%9F%87%B7-ss8
 trojan://mainssh-Jvcucyx@tr-ca-mss.centerdl.online:443?type=ws&host=tr-ca-mss.centerdl.online&path=/trojan&security=tls&sni=tr-ca-mss.centerdl.online#%F0%9F%87%A8%F0%9F%87%A6-mss
+trojan://u8195809710@tr-uk-ss8.centerdl.online:2087?security=tls&sni=tr-uk-ss8.centerdl.online&type=ws&host=tr-uk-ss8.centerdl.online&path=%2Ftrojango#%F0%9F%87%AC%F0%9F%87%A7-548-ss8
+trojan://u9511103998@tr-ge-508-ss8.centerdl.online:2087?security=tls&sni=tr-ge-508-ss8.centerdl.online&type=ws&host=tr-ge-508-ss8.centerdl.online&path=%2Ftrojango#%F0%9F%87%A9%F0%9F%87%AA-508-ss8
