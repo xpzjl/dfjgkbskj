@@ -10,3 +10,4 @@ trojan://7578951b-796a-4597-8776-ea1c6e961667@tr-us1-gss.centerdl.online:443?sec
 trojan://e15aebbf-2ea7-4dd9-8f83-35dbce8e88a2@tamiz1.centerdl.online:443?security=tls&sni=at.centerdl.online&type=ws&host=at.centerdl.online&path=%2Ftrojan#sshocean-weqrwer
 trojan://u8245844854@tr-au-476-ss8.centerdl.online:2087?security=tls&sni=tr-au-476-ss8.centerdl.online&type=ws&host=tr-au-476-ss8.centerdl.online&path=%2Ftrojango#%F0%9F%87%A6%F0%9F%87%BA-476-ss8
 vless://e15aebbf-2ea7-4dd9-8f83-35dbce8e88a2@tamiz1.centerdl.online:443?encryption=none&security=tls&sni=at.centerdl.online&type=ws&host=at.centerdl.online&path=%2Fvless#sshocean-weqrwer
+
