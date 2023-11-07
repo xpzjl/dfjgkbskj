@@ -10,3 +10,11 @@ trojan://7578951b-796a-4597-8776-ea1c6e961667@tr-us1-gss.centerdl.online:443?sec
 trojan://e15aebbf-2ea7-4dd9-8f83-35dbce8e88a2@tamiz1.centerdl.online:443?security=tls&sni=at.centerdl.online&type=ws&host=at.centerdl.online&path=%2Ftrojan#at
 trojan://u8245844854@tr-au-476-ss8.centerdl.online:2087?security=tls&sni=tr-au-476-ss8.centerdl.online&type=ws&host=tr-au-476-ss8.centerdl.online&path=%2Ftrojango#%F0%9F%87%A6%F0%9F%87%BA-476-ss8
 vless://e15aebbf-2ea7-4dd9-8f83-35dbce8e88a2@tamiz1.centerdl.online:443?encryption=none&security=tls&sni=at.centerdl.online&type=ws&host=at.centerdl.online&path=%2Fvless#at
+trojan://fd24e00e-ad23-461c-beef-a2b8d5481ee3@tr-lt-sso.centerdl.online:443?security=tls&sni=tr-lt-sso.centerdl.online&type=ws&host=tr-lt-sso.centerdl.online&path=%2Fwebsocket#tr-lt-sso
+vless://1e69a9bd-03b7-404a-bcbd-68b52e8d995e@vl-aisg-sso.centerdl.online:443?encryption=none&security=tls&sni=vl-aisg-sso.centerdl.online&type=ws&host=vl-aisg-sso.centerdl.online&path=%2Fvless#sg-sso
+vless://1e69a9bd-03b7-404a-bcbd-68b52e8d995e@vl-aisg-sso.centerdl.online:443?encryption=none&security=tls&sni=vl-aisg-sso.centerdl.online&type=ws&host=vl-aisg-sso.centerdl.online&path=%2Fvless#sg-sso
+vless://d2dde8c2-d2d2-419d-95be-0f4452b6acef@vl-aisg2-sso.centerdl.online:443?encryption=none&security=tls&sni=vl-aisg2-sso.centerdl.online&type=ws&host=vl-aisg2-sso.centerdl.online&path=%2Fvless#sg2-sso
+vless://862868ac-80fe-4b94-b65d-845c6aad674a@vl-aisg3-sso.centerdl.online:443?encryption=none&security=tls&sni=vl-aisg3-sso.centerdl.online&type=ws&host=vl-aisg3-sso.centerdl.online&path=%2Fvless#sg3-sso
+trojan://862868ac-80fe-4b94-b65d-845c6aad674a@vl-aisg3-sso.centerdl.online:443?security=tls&sni=vl-aisg3-sso.centerdl.online&type=ws&host=vl-aisg3-sso.centerdl.online&path=%2Ftrojan#tr-sg3-sso
+trojan://d2dde8c2-d2d2-419d-95be-0f4452b6acef@vl-aisg2-sso.centerdl.online:443?security=tls&sni=vl-aisg2-sso.centerdl.online&type=ws&host=vl-aisg2-sso.centerdl.online&path=%2Ftrojan#tr-sg2-sso
+trojan://1e69a9bd-03b7-404a-bcbd-68b52e8d995e@vl-aisg-sso.centerdl.online:443?security=tls&sni=vl-aisg-sso.centerdl.online&type=ws&host=vl-aisg-sso.centerdl.online&path=%2Ftrojan#tr-sg-sso
