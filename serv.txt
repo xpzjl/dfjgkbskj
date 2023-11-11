@@ -2,4 +2,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKa25UT0R4N2d6UXF3SkplUWxPdUxx@ss-gb1-direct.
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRMXFsUmtub045UHdHZUV4V1Z5VEtn@ss-gb2-direct.centerdl.online:14564?type=tcp#SS-%F0%9F%87%AC%F0%9F%87%A72-Direct
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplemVzQlhlc2YzUktCQ3AxdnFLdUl4@ss-nl1-direct.centerdl.online:8080?type=tcp#SS-%F0%9F%87%B3%F0%9F%87%B11-direct
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2QkczZ0czbGZwbDExTkU0eWZzSUN4@ss-nl2-direct.centerdl.online:8080?type=tcp#SS-%F0%9F%87%B3%F0%9F%87%B12-direct
+vless://2d725056-cffd-454e-8e43-030f41d49f52@vl-fi1-direct.centerdl.online:4455?type=tcp&headerType=http&host=bot.silosv.fun&path=/&security=reality&fp=chrome&sni=hetzner.com&pbk=WiZQpoX2Q82q_1GjJxPqbqt38twTWoncvwy5B-L0f1I&sid=8475f036#VL-%F0%9F%87%AB%F0%9F%87%AE1-Direct
 vless://6b7376dd-11d8-443c-804a-996072aefd81@vl-se1-direct.centerdl.online:8443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=coinmarketcap.com&pbk=JhdhT4rX9riS-rK99lK6_p60sF0J8gNM2oQRGVYC7h0&sid=5e#VL-%F0%9F%87%B8%F0%9F%87%AA%201-direct
