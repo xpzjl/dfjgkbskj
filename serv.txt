@@ -9,4 +9,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRMXFsUmtub045UHdHZUV4V1Z5VEtn@ss-gb2-direct.
 vless://eb87d374-2560-4d74-a969-531141ef79e3@vl-se3-direct.centerdl.online:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=fd37ee58.com&pbk=A5lKbEzQmCMSd5Q0ZDOcQ4nTkqGrjlFDUzAWUzJopyk&sid=b2378730#VL-%F0%9F%87%B8%F0%9F%87%AA%203-direct
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2QkczZ0czbGZwbDExTkU0eWZzSUN4@ss-nl2-direct.centerdl.online:8080?type=tcp#SS-%F0%9F%87%B3%F0%9F%87%B12-direct
 vless://6b7376dd-11d8-443c-804a-996072aefd81@vl-se2-direct.centerdl.online:8443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=coinmarketcap.com&pbk=zZxqmBhj35Qekal8yTbRvMof7MUcmBNihoDPhboRhRk&sid=5e#VL-%F0%9F%87%B8%F0%9F%87%AA%202-direct
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxR2ptSThXUWxGMHRmaERia0xxR2RO@ss-nl2-direct.centerdl.online:8080?type=tcp#SS-%F0%9F%87%B3%F0%9F%87%B12%E2%80%9D-Direct
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUMXBiN1h4eHJvbHZQU2IwdTJ4U09B@ss-nl1-direct.centerdl.online:8080?type=tcp#SS-%F0%9F%87%B3%F0%9F%87%B11-Direct
