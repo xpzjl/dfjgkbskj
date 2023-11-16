@@ -9,4 +9,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZzlnS1diV2dKOGFqM0ZmVU42WnR1@ss-gb2-direct.
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1azU1YUlVakphYVE4WWpFNjc3MndG@ss-us1-direct.centerdl.online:34511?type=tcp#SS-%F0%9F%87%BA%F0%9F%87%B81-Direct
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2QkczZ0czbGZwbDExTkU0eWZzSUN4@ss-nl2-direct.centerdl.online:8080?type=tcp#SS-%F0%9F%87%B3%F0%9F%87%B12-direct
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxR2ptSThXUWxGMHRmaERia0xxR2RO@ss-nl2-direct.centerdl.online:8080?type=tcp#SS-%F0%9F%87%B3%F0%9F%87%B12%E2%80%9D-Direct
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUMXBiN1h4eHJvbHZQU2IwdTJ4U09B@ss-nl1-direct.centerdl.online:8080?type=tcp#SS-%F0%9F%87%B3%F0%9F%87%B11-Direct
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUMXBiN1h4eHJvbHZQU2IwdTJ4U09B@ss-nl1-direct.centerdl.online:8080?type=tcp#SS-%F0%9F%87%B3%F0%9F%87%B11-Direct%20
