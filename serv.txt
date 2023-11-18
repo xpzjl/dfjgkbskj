@@ -11,4 +11,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZzlnS1diV2dKOGFqM0ZmVU42WnR1@ss-gb2-direct.
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUY25yQlRkQURUeGU5UDNXeUNwVUE1@ss-kr1-direct.centerdl.online:443?type=tcp#SS-%F0%9F%87%B0%F0%9F%87%B71-Direct
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUMXBiN1h4eHJvbHZQU2IwdTJ4U09B@ss-nl1-direct.centerdl.online:8080?type=tcp#SS-%F0%9F%87%B3%F0%9F%87%B11-Direct%20
 vless://3f2d2ba4-7f52-4ded-8580-890461bc0005@vl-nl2-direct.centerdl.online:222?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=ghbi.ir&pbk=9wfsGBdHj4v57u3U-YDUrqyHcBzZP_43xYXw0aT_UHE#VL-%F0%9F%87%B3%F0%9F%87%B12-Direct
-vless://282bed58-1451-419f-a5b3-ed6f65ab8850@vl-nl3-direct.centerdl.online:2096?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=www.datadoghq.com&pbk=x-Zv8k40O3rJ8sjJknVpimNI4dhEk3WRCyKeRb5NeEU&sid=b756e372b9623b22#VL-%F0%9F%87%B3%F0%9F%87%B13-Direct
+vless://dc6edb06-07b6-48b2-9800-03607e432274@xn--vlnl3-direct-y19f.centerdl.online:30446?type=tcp&security=reality&fp=firefox&sni=s2.vipserver.monster&pbk=nLJYMlGRqSn6LSTBg_LLmk_6P2thgZDqwIO63s9-zyk&sid=4ef18ebb#VL-%F0%9F%87%B3%F0%9F%87%B13-Direct
