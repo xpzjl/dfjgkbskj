@@ -9,3 +9,4 @@ vless://3f2d2ba4-7f52-4ded-8580-890461bc0005@xn--vl-fr1direct-p19f.relaynet.onli
 vless://b30a8598-2620-48a0-8b49-d29d149a1d3a@xn--vl-sw1direct-219f.relaynet.online:8080?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=server-53651.prod.hosts.ooklaserver.net&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#VL-%F0%9F%87%B8%F0%9F%87%AA1-Direct
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2QkczZ0czbGZwbDExTkU0eWZzSUN4@xn--ss-nl1direc-rg3f.relaynet.online:8080?type=tcp#Ss-%F0%9F%87%B3%F0%9F%87%B11-Direct
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2bGpjaURIOHFQaVh1N3NKS3I3UFM3@ss-ie1-direct.relaynet.online:26746?type=tcp#SS-%F0%9F%87%AE%F0%9F%87%AA1-Direct
+vless://7cdd0e99-bf01-4934-9f38-565342aaa28b@abi.relaynet.online:443?type=ws&host=fr.relaynet.online&path=/vless&security=tls&sni=fr.relaynet.online#VL-%F0%9F%87%AE%F0%9F%87%B81-CDN
