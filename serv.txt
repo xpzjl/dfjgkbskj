@@ -2,3 +2,4 @@ vless://ce950bba-29e1-42fd-9f5c-98d875fa8bd7@vl-us1-direct.relaynet.online:43965
 vless://50759392-57ce-4f4c-bd29-fb8fc89ea43f@xn--vlde1direct-qg3fja.relaynet.online:528?type=tcp&headerType=http&host=kqlnclsd.divarcdn.com&security=none#VL-%F0%9F%87%A9%F0%9F%87%AA1-Direct
 vless://5dadaf3a-d728-4cec-9a12-a37a87b33d19@vl-de2-direct.relaynet.online:2050?type=tcp&headerType=http&host=telewebion.com&security=none#VL-%F0%9F%87%A9%F0%9F%87%AA2-Direct
 vless://06e03648-442e-4db6-82af-b0fa8af9be02@xn--vlde3direct-qg3fja.relaynet.online:2053?type=tcp&headerType=http&host=fast.speedgo.lol&security=none#VL-%F0%9F%87%A9%F0%9F%87%AA3-Direct
+vless://34406348-464d-4ca8-b226-3c634b74a55a@xn--vl-de4direct-p19f.relaynet.online:34278?type=tcp&headerType=http&host=speedtest.net&security=none#VL-%F0%9F%87%A9%F0%9F%87%AA4-Direct
