@@ -1,8 +1,6 @@
 vless://f36fa192-9759-40b0-b8bd-e191f2f683cf@vl-de1-direct.centerdl.online:33544?type=tcp&security=reality&fp=chrome&sni=ghbi.ir&pbk=BpU1p06Im2JQYJN6wstdK-IxJAJlS5sy6CQ7qkAAQmM&sid=dcc88ed9#VL-%F0%9F%87%A9%F0%9F%87%AA1-Direct
 vless://3bef1139-f8fd-4398-bdc1-93738fa56ec3@xn--vlde2-direct-y19f.centerdl.online:48406?type=grpc&mode=gun&serviceName=sni.parsservers.sbs&security=reality&fp=firefox&sni=ghbi.ir&pbk=B-rmMUMSRiRs6az7D87IFDimnY8__p4qK80DKHWKO08&sid=b3890970#VL-%F0%9F%87%A9%F0%9F%87%AA2-Direct
-vless://ce528df7-76b2-4bd2-bf04-4a856aa83293@vl-de3-direct.centerdl.online:444?type=grpc&mode=gun&security=reality&fp=firefox&sni=bahmanbroker.com&pbk=yG7cc9wpuCzIWkbKBB3okrIArto3g7MUPAemqKEmGlg&sid=5c53e327#VL-%F0%9F%87%A9%F0%9F%87%AA3-Direct
 vless://3f2d2ba4-7f52-4ded-8580-890461bc0005@vl-it1-direct.centerdl.online:999?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=ghbi.ir&pbk=9wfsGBdHj4v57u3U-YDUrqyHcBzZP_43xYXw0aT_UHE#VL-%F0%9F%87%AE%F0%9F%87%B91-Direct
-ss://YWVzLTI1Ni1nY206VnNxUjRoTlY4MHp6bWxLL3N2d3pkQXk1WG5IdUcyV28zUmFUa0ZReTkyaz0=@ss-it2-direct.centerdl.online:2443?type=tcp#SS-%F0%9F%87%AE%F0%9F%87%B92-Direct
 vless://3f2d2ba4-7f52-4ded-8580-890461bc0005@vl-es1-direct.centerdl.online:999?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=ghbi.ir&pbk=9wfsGBdHj4v57u3U-YDUrqyHcBzZP_43xYXw0aT_UHE#VL-%F0%9F%87%AA%F0%9F%87%B81-Direct
 vless://6b7376dd-11d8-443c-804a-996072aefd81@xn--vl-sw1direct-p19f.centerdl.online:8443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=coinmarketcap.com&pbk=IJNLp9FZnkYm81YCbCUJVqCA9JOWwJv-oCwdD-7n1QI&sid=5e#Vl-%F0%9F%87%B8%F0%9F%87%AA1-Direct
 vless://dc83bcde-e6ec-45d8-aa20-36bc4eef04e6@vl-tr1-direct.centerdl.online:44165?type=tcp&security=reality&fp=firefox&sni=film2movie.asia&pbk=ix2-jkthgUJBbSbW6_foOUtPjl0Ov2LHpaKBqFwUTgI&sid=104a881d#VL-%F0%9F%87%B9%F0%9F%87%B71-Direct
@@ -11,6 +9,5 @@ vless://3f2d2ba4-7f52-4ded-8580-890461bc0005@xn--vl-gb2direct-219f.centerdl.onli
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZDU3blJtNDJ3YXZWNjduZFNIOEdH@xn--ssgb3-direct-y19f.centerdl.online:28454?type=tcp#SS-%F0%9F%87%AC%F0%9F%87%A73-Direct
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZzlnS1diV2dKOGFqM0ZmVU42WnR1@ss-gb4-direct.centerdl.online:44934?type=tcp#SS-%F0%9F%87%AC%F0%9F%87%A74-Direct
 vless://3f2d2ba4-7f52-4ded-8580-890461bc0005@vl-pl1-direct.centerdl.online:999?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=ghbi.ir&pbk=9wfsGBdHj4v57u3U-YDUrqyHcBzZP_43xYXw0aT_UHE#VL-%F0%9F%87%B5%F0%9F%87%B1-Direct
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2Y2VySmlwblc3anh1S0tTWVdWTlI0@ss-us1-direct.centerdl.online:20015?type=tcp#SS-%F0%9F%87%BA%F0%9F%87%B81-Direct
 vless://3f2d2ba4-7f52-4ded-8580-890461bc0005@vl-nl2-direct.centerdl.online:222?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=ghbi.ir&pbk=9wfsGBdHj4v57u3U-YDUrqyHcBzZP_43xYXw0aT_UHE#VL-%F0%9F%87%B3%F0%9F%87%B12-Direct
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUMXBiN1h4eHJvbHZQU2IwdTJ4U09B@ss-nl1-direct.centerdl.online:8080?type=tcp#SS-%F0%9F%87%B3%F0%9F%87%B11-Direct
