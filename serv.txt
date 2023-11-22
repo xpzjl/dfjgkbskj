@@ -1,3 +1,4 @@
+vless://ce950bba-29e1-42fd-9f5c-98d875fa8bd7@vl-us1-direct.relaynet.online:43965?type=tcp&headerType=http&host=speedtest.net&path=/&security=none#VL-%F0%9F%87%BA%F0%9F%87%B81-Direct
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZDU3blJtNDJ3YXZWNjduZFNIOEdH@xn--ssgb3-direct-y19f.Relaynet.online:28454#SS-%F0%9F%87%AC%F0%9F%87%A73-Direct
 vless://3bef1139-f8fd-4398-bdc1-93738fa56ec3@xn--vlde2-direct-y19f.Relaynet.online:48406?encryption=none&security=reality&sni=ghbi.ir&fp=firefox&pbk=B-rmMUMSRiRs6az7D87IFDimnY8__p4qK80DKHWKO08&sid=b3890970&type=grpc&serviceName=sni.parsservers.sbs&mode=gun#VL-%F0%9F%87%A9%F0%9F%87%AA2-Direct
 vless://dc83bcde-e6ec-45d8-aa20-36bc4eef04e6@vl-tr1-direct.Relaynet.online:44165?encryption=none&security=reality&sni=film2movie.asia&fp=firefox&pbk=ix2-jkthgUJBbSbW6_foOUtPjl0Ov2LHpaKBqFwUTgI&sid=104a881d&type=tcp&headerType=none#VL-%F0%9F%87%B9%F0%9F%87%B71-Direct
