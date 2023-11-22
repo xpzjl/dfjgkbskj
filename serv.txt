@@ -12,4 +12,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2bGpjaURIOHFQaVh1N3NKS3I3UFM3@ss-ie1-direct.
 vless://7cdd0e99-bf01-4934-9f38-565342aaa28b@abi.relaynet.online:443?type=ws&host=fr.relaynet.online&path=/vless&security=tls&sni=fr.relaynet.online#VL-%F0%9F%87%AE%F0%9F%87%B81-CDN
 vless://af56c199-2b3e-421f-a23b-e3e05a4c1ef5@abi.relaynet.online:443?type=ws&host=tr1-ssm.relaynet.online&path=/vless&security=tls&sni=tr1-ssm.relaynet.online#VL-%F0%9F%87%B9%F0%9F%87%B71-CDN
 vless://094f57b3-2f37-45f0-aee2-692e68b75ae5@abi.relaynet.online:443?type=ws&host=ch2-ssm.relaynet.online&path=/vless&security=tls&sni=ch2-ssm.relaynet.online#VL-%F0%9F%87%A8%F0%9F%87%AD1-CDN
-vless://094f57b3-2f37-45f0-aee2-692e68b75ae5@abi.relaynet.online:443?type=ws&host=ch2-ssm.relaynet.online&path=/vless&security=tls&sni=ch2-ssm.relaynet.online#VL-%F0%9F%87%A8%F0%9F%87%AD1-CDN
+vless://a60bc6cc-a685-4b02-956e-6eac17f70141@abi.relaynet.online:443?type=ws&host=no1-ssm.relaynet.online&path=/vless&security=tls&sni=no1-ssm.relaynet.online#VL-%F0%9F%87%B3%F0%9F%87%B41-CDN
