@@ -11,3 +11,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZzlnS1diV2dKOGFqM0ZmVU42WnR1@ss-gb4-direct.
 vless://3f2d2ba4-7f52-4ded-8580-890461bc0005@vl-pl1-direct.centerdl.online:999?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=ghbi.ir&pbk=9wfsGBdHj4v57u3U-YDUrqyHcBzZP_43xYXw0aT_UHE#VL-%F0%9F%87%B5%F0%9F%87%B1-Direct
 vless://3f2d2ba4-7f52-4ded-8580-890461bc0005@vl-nl2-direct.centerdl.online:222?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=ghbi.ir&pbk=9wfsGBdHj4v57u3U-YDUrqyHcBzZP_43xYXw0aT_UHE#VL-%F0%9F%87%B3%F0%9F%87%B12-Direct
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUMXBiN1h4eHJvbHZQU2IwdTJ4U09B@ss-nl1-direct.centerdl.online:8080?type=tcp#SS-%F0%9F%87%B3%F0%9F%87%B11-Direct
+vless://aeb81c6b-ee52-4f54-a659-bd5f867cadb8@xn--vl-us1direct-p19f.centerdl.online:17868?type=tcp&security=reality&fp=firefox&sni=ghbi.ir&pbk=dPcmv4IhUkKhG25E51OMec6Bj0edJMJuPvd2HSzFsjA&sid=b91193d8#VL-%F0%9F%87%BA%F0%9F%87%B81-Direct
