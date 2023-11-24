@@ -1,5 +1,6 @@
 vless://6b59ae24-33ca-4410-a1f7-d59245b6887a@vl-finland1-direct.relaynet.online:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=canva.com&pbk=9vxFCkR5WHJW1SkDWG-9AjM7vOB8DfT5VJ_04OmS5To&sid=cbac1fc1#VL-%F0%9F%87%AB%F0%9F%87%AE1-Direct
 vless://1448f40c-c45d-4733-8c77-a079b629ddf7@vl-finland2-direct.relaynet.online:5050?type=tcp&security=reality&fp=firefox&sni=www.nixos.org&pbk=C9haVdRr3X8aa5TiHflRe5KkD3Fm9qklGMBNCeZ8o2c&sid=fa75c258#VL-%F0%9F%87%AB%F0%9F%87%AE2-Direct
+vless://f3421552-97fa-4832-ab23-cdf7b938b93e@vl-turkey1-direct.relaynet.online:2096?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=spaceboy.zara.com&pbk=KSUc_JF6v5jkfZe41bzdh2e0ofs8iR_HowkW8MzmhAQ&sid=38#VL-%F0%9F%87%B9%F0%9F%87%B71-Direct
 vless://5dadaf3a-d728-4cec-9a12-a37a87b33d19@vl-de2-direct.relaynet.online:2050?type=tcp&headerType=http&host=telewebion.com&security=none#VL-%F0%9F%87%A9%F0%9F%87%AA2-Direct
 vless://b4870692-9e00-4780-ae2c-fb4d602f7c88@vl-de5-direct.relaynet.online:36411?type=tcp&headerType=http&host=bmw.com&path=/&security=none#VL-%F0%9F%87%A9%F0%9F%87%AA5-Direct
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2bGpjaURIOHFQaVh1N3NKS3I3UFM3@ss-ie1-direct.relaynet.online:26746?type=tcp#SS-%F0%9F%87%AE%F0%9F%87%AA1-Direct
