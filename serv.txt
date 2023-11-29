@@ -5,6 +5,7 @@ vless://4edad79e-2f50-4225-9795-81915bf4428f@abi.relaynet.online:443?type=ws&hos
 vless://83bf8db3-5c89-4639-b744-b0587c76f6e9@abi.relaynet.online:443?type=ws&host=ie2-ssm.relaynet.online&path=/vless&security=tls&sni=ie2-ssm.relaynet.online#VL-%F0%9F%87%AE%F0%9F%87%AA2-CDN
 vless://caf07b20-0e8f-416d-87f1-c63bf1410125@abi.relaynet.online:443?type=ws&host=il1-ssm.relaynet.online&path=/vless&security=tls&sni=il1-ssm.relaynet.online#VL-%F0%9F%87%AE%F0%9F%87%B11-CDN
 vless://af56c199-2b3e-421f-a23b-e3e05a4c1ef5@abi.relaynet.online:443?type=ws&host=tr1-ssm.relaynet.online&path=/vless&security=tls&sni=tr1-ssm.relaynet.online#VL-%F0%9F%87%B9%F0%9F%87%B71-CDN
+vless://070abc5d-0ab7-4c37-84ce-47bbb74921d3@abi.relaynet.online:443?type=ws&host=tr2-ssm.relaynet.online&path=/vless&security=tls&sni=tr2-ssm.relaynet.online#VL-%F0%9F%87%B9%F0%9F%87%B72-CDN
 vless://094f57b3-2f37-45f0-aee2-692e68b75ae5@abi.relaynet.online:443?type=ws&host=ch2-ssm.relaynet.online&path=/vless&security=tls&sni=ch2-ssm.relaynet.online#VL-%F0%9F%87%A8%F0%9F%87%AD1-CDN
 vless://a60bc6cc-a685-4b02-956e-6eac17f70141@abi.relaynet.online:443?type=ws&host=no1-ssm.relaynet.online&path=/vless&security=tls&sni=no1-ssm.relaynet.online#VL-%F0%9F%87%B3%F0%9F%87%B41-CDN
 vless://d0b8fc52-145c-44d3-905e-d241648ba622@vl-es1-direct.relaynet.online:3030?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=uGshhproxyV2raykufukfkyKuyk-irancel-Mokhabera-Sshpr-raitel-MIc.Snappfoodd.site&pbk=r9f9WAQlBDW8MjOozipqFkktXcFMs52aHiyHIxaWny0#VL-%F0%9F%87%AA%F0%9F%87%B81-Direct
