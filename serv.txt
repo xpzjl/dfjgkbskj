@@ -6,6 +6,7 @@ vless://b4870692-9e00-4780-ae2c-fb4d602f7c88@vl-de5-direct.relaynet.online:36411
 vless://96f25872-91ba-4a9d-b7b8-d8c44a64625a@vl-nl1-direct.relaynet.online:8443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=ilovepdf.com&pbk=HYj9e1nKt19cNJIgmSE1ZVTI0wdvNjNiuys5z4DRvAM&sid=8cd9814b02605691#VL-%F0%9F%87%B3%F0%9F%87%B11-Direct
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRMXFsUmtub045UHdHZUV4V1Z5VEtn@ss-gb4-direct.relaynet.online:14564?type=tcp#SS-%F0%9F%87%AC%F0%9F%87%A74-Direct
 vless://7cdd0e99-bf01-4934-9f38-565342aaa28b@abi.relaynet.online:443?type=ws&host=fr.relaynet.online&path=/vless&security=tls&sni=fr.relaynet.online#VL-%F0%9F%87%AE%F0%9F%87%B81-CDN
+vless://efa9d07b-4d3c-4625-91cf-c0a1b2f8144c@abi.relaynet.online:443?type=ws&host=ic2-ssm.relaynet.online&path=/vless&security=tls&sni=ic2-ssm.relaynet.online#VL-%F0%9F%87%AE%F0%9F%87%B82-CDN
 vless://af56c199-2b3e-421f-a23b-e3e05a4c1ef5@abi.relaynet.online:443?type=ws&host=tr1-ssm.relaynet.online&path=/vless&security=tls&sni=tr1-ssm.relaynet.online#VL-%F0%9F%87%B9%F0%9F%87%B71-CDN
 vless://094f57b3-2f37-45f0-aee2-692e68b75ae5@abi.relaynet.online:443?type=ws&host=ch2-ssm.relaynet.online&path=/vless&security=tls&sni=ch2-ssm.relaynet.online#VL-%F0%9F%87%A8%F0%9F%87%AD1-CDN
 vless://a60bc6cc-a685-4b02-956e-6eac17f70141@abi.relaynet.online:443?type=ws&host=no1-ssm.relaynet.online&path=/vless&security=tls&sni=no1-ssm.relaynet.online#VL-%F0%9F%87%B3%F0%9F%87%B41-CDN
