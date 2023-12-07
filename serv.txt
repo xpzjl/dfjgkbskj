@@ -21,3 +21,4 @@ vless://090919ef-a3fb-4ee1-874b-1505b531da53@abi.relaynet.online:443?encryption=
 vless://2db06716-4e6a-4d89-a398-f9d37ace9f43@abi.relaynet.online:443?encryption=none&security=tls&sni=us1-vh.relaynet.online&type=ws&host=us1-vh.relaynet.online&path=%2Fvless#VL-%F0%9F%87%BA%F0%9F%87%B81-CDN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZzlnS1diV2dKOGFqM0ZmVU42WnR1@ss-gb2-direct.relaynet.online:44934#SS-%F0%9F%87%AC%F0%9F%87%A72-Direct
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRMXFsUmtub045UHdHZUV4V1Z5VEtn@ss-gb4-direct.relaynet.online:14564#SS-%F0%9F%87%AC%F0%9F%87%A74-Direct
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDVzNOZU5aZmtPTUVhMFpSUkc3QUpn@ss-us2-direct.relaynet.online:58844?type=tcp#SS-%F0%9F%87%BA%F0%9F%87%B82-Direct
