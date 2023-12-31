@@ -1,11 +1,1 @@
-vless://08eb6507-9286-4239-b31e-8bb8347d0c08@abi.relaynet.online:443?encryption=none&security=tls&sni=us1-vh.relaynet.online&type=ws&host=us1-vh.relaynet.online&path=%2Fvless#VL-%F0%9F%87%BA%F0%9F%87%B81-CDN
-vless://90f40487-e33a-4001-8465-00ead79b039a@abi.relaynet.online:443?encryption=none&security=tls&sni=sw2-ssm.relaynet.online&type=ws&host=sw2-ssm.relaynet.online&path=%2Fvless#VL-%F0%9F%87%B8%F0%9F%87%AA1-CDN
-vless://646654da-df64-451d-9d45-cfc027465042@abi.relaynet.online:443?encryption=none&security=tls&sni=tr1-ssm.relaynet.online&type=ws&host=tr1-ssm.relaynet.online&path=%2Fvless#VL-%F0%9F%87%B9%F0%9F%87%B71-CDN
-vless://c20d3f16-10de-44b8-822d-44fe0d4c114e@abi.relaynet.online:443?encryption=none&security=tls&sni=lt1-ssm.relaynet.online&type=ws&host=lt1-ssm.relaynet.online&path=%2Fvless#VL-%F0%9F%87%B1%F0%9F%87%B91-CDN
-vless://88d58e2b-1047-4925-b322-0906fad5ad34@abi.relaynet.online:443?encryption=none&security=tls&sni=es2-ssm.relaynet.online&type=ws&host=es2-ssm.relaynet.online&path=%2Fvless#VL-%F0%9F%87%AA%F0%9F%87%B81-CDN
-vless://cc79df6f-9e34-4a09-b9d0-6345b2fc58b6@abi.relaynet.online:443?encryption=none&security=tls&sni=AT1-VH.RELAYNET.ONLINE&type=ws&host=AT1-VH.RELAYNET.ONLINE&path=%2Fvless#VL-%F0%9F%87%A6%F0%9F%87%B91-CDN
-vless://36988dd2-24cd-456c-b2fe-462640bec7f0@abi.relaynet.online:443?encryption=none&security=tls&sni=ca1-vh.relaynet.online&type=ws&host=ca1-vh.relaynet.online&path=%2Fvless#VL-%F0%9F%87%A8%F0%9F%87%A61-CDN
-vless://0f7b891b-0265-4bcf-844c-f51b0b546c5f@abi.relaynet.online:443?encryption=none&security=tls&sni=de1-vh.relaynet.online&type=ws&host=de1-vh.relaynet.online&path=%2Fvless#VL-%F0%9F%87%A9%F0%9F%87%AA1-CDN
-vless://956a7751-e114-4156-92ab-a20d4da2b476@abi.relaynet.online:443?encryption=none&security=tls&sni=ch2-ssm.relaynet.online&type=ws&host=ch2-ssm.relaynet.online&path=%2Fvless#VL-%F0%9F%87%A8%F0%9F%87%AD1-CDN
-vless://4fc9ba24-07e9-4947-9608-cef924aad0d9@abi.relaynet.online:443?encryption=none&security=tls&sni=ee2-ssm.relaynet.online&type=ws&host=ee2-ssm.relaynet.online&path=%2Fvless#VL-%F0%9F%87%AA%F0%9F%87%AA1-CDN
-vless://6e025c5c-68c7-4273-a25b-689ac4893852@abi.relaynet.online:443?encryption=none&security=tls&sni=gr2-ssm.relaynet.online&type=ws&host=gr2-ssm.relaynet.online&path=%2Fvless#VL-%F0%9F%87%AC%F0%9F%87%B71-CDN
+vless://ae5aed77-be23-4f6c-bd51-c73745038952@direct1.relaynet.online:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=vu.nl&pbk=Pk--Og6oefYaJlSVLEleq267EVt6NaNRIc0PR-4K9nk&sid=77895d125b69cf7c#Direct%20
