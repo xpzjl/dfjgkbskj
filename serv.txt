@@ -1,5 +1,6 @@
-trojan://6dCf6Syv1FwpjcAoCB2vfQ@abi.relaynet.online:2083?type=ws&host=fr-direct.relaynet.online&path=/&security=tls&fp=chrome&sni=fr-direct.relaynet.online&alpn=h2,http/1.1#TR-%F0%9F%87%AB%F0%9F%87%B7-CDN
-trojan://U4nVcSrlhM@abi.relaynet.online:2087?type=ws&host=tr-de2.relaynet.online&path=/&security=tls&fp=chrome&sni=tr-de2.relaynet.online&alpn=h2,http/1.1,h3#TR-%F0%9F%87%AB%F0%9F%87%AE-CDN
+trojan://lLGTjjwcrF@tr-fi2.relaynet.online:8443?type=ws&host=tr-fi2.relaynet.online&path=/&security=tls&fp=chrome&sni=tr-fi2.relaynet.online#TR-%F0%9F%87%AB%F0%9F%87%AE-%E2%9A%9C%EF%B8%8F
+trojan://6dCf6Syv1FwpjcAoCB2vfQ@abi.relaynet.online:2083?type=ws&host=fr-direct.relaynet.online&path=/&security=tls&fp=chrome&sni=fr-direct.relaynet.online&#TR-%F0%9F%87%AB%F0%9F%87%B7-CDN
+trojan://U4nVcSrlhM@abi.relaynet.online:2087?type=ws&host=tr-de2.relaynet.online&path=/&security=tls&fp=chrome&sni=tr-de2.relaynet.online&#TR-%F0%9F%87%AB%F0%9F%87%AE-CDN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5eC1QOWF5Z05NLVYtYm9PMVVHUWVn@direct3.relaynet.online:1165?type=tcp#Direct3
 vless://065fd02d-2a41-4414-9a5d-eb6effcc1a30@us1-vh.relaynet.online:443?type=ws&host=us1-vh.relaynet.online&path=/vless&security=tls&sni=us1-vh.relaynet.online#VL-%F0%9F%87%BA%F0%9F%87%B81-CDN
 vless://554bec77-2225-49a6-aa03-14b73df15b48@tr2-ssm.relaynet.online:443?type=ws&host=tr2-ssm.relaynet.online&path=/vless&security=tls&sni=tr2-ssm.relaynet.online#VL-%F0%9F%87%B9%F0%9F%87%B71-CDN
