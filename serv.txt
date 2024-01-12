@@ -1,6 +1,7 @@
 trojan://jagoanssh-Ndkjsjaj@abi.relaynet.online:443?security=tls&sni=tr-de-js.relaynet.online&type=ws&host=tr-de-js.relaynet.online&path=%2Ftrojan#Tr-%F0%9F%87%AB%F0%9F%87%B7-%E2%9A%9C%EF%B8%8F
 trojan://qG9K8AGnn9XH5jUqeFu96g@abi.relaynet.online:2083?type=ws&host=tr-direct2.relaynet.online&path=/&security=tls&fp=chrome&sni=tr-direct2.relaynet.online#TR-%F0%9F%87%A9%F0%9F%87%B0-%E2%9A%9C%EF%B8%8F
 trojan://U4nVcSrlhM@abi.relaynet.online:2087?security=tls&sni=tr-de2.relaynet.online&fp=chrome&type=ws&host=tr-de2.relaynet.online&path=%2F#TR-%F0%9F%87%AB%F0%9F%87%AE-CDN
+trojan://mainssh-Relaynetsg@abi.relaynet.online:443?type=ws&host=tr-sg-mss.relaynet.online&path=/trojan&security=tls&sni=tr-sg-mss.relaynet.online#TR-%F0%9F%87%B8%F0%9F%87%AC-%E2%9A%9C%EF%B8%8F
 vless://e62cd438-b5df-494d-ac36-e13eeee2fc26@abi.relaynet.online:443?encryption=none&security=tls&sni=sw2-ssm.relaynet.online&type=ws&host=sw2-ssm.relaynet.online&path=%2Fvless#VL-%F0%9F%87%B8%F0%9F%87%AA1-CDN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYd1dWUm1PMmtLdTZxSzFYbGloM0xmZTZMaDNSUmE5cg==@direct2.relaynet.online:8388#Direct2
 vless://ae5aed77-be23-4f6c-bd51-c73745038952@direct1.relaynet.online:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=vu.nl&fp=chrome&pbk=Pk--Og6oefYaJlSVLEleq267EVt6NaNRIc0PR-4K9nk&sid=77895d125b69cf7c&type=tcp&headerType=none#Direct%20
