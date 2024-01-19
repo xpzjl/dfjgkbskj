@@ -1,4 +1,4 @@
-trojan://jagoanssh-Ndkjsjaj@abi.relaynet.online:443?security=tls&sni=tr-de-js.relaynet.online&type=ws&host=tr-de-js.relaynet.online&path=%2Ftrojan#Tr-%F0%9F%87%AB%F0%9F%87%B7-%E2%9A%9C%EF%B8%8F
+trojan://jagoanssh-Relaynet@abi.relaynet.online:443?security=tls&sni=tr-de-js.relaynet.online&type=ws&host=tr-de-js.relaynet.online&path=%2Ftrojan#Tr-%F0%9F%87%AB%F0%9F%87%B7-%E2%9A%9C%EF%B8%8F
 trojan://qG9K8AGnn9XH5jUqeFu96g@abi.relaynet.online:2083?security=tls&sni=tr-direct2.relaynet.online&fp=chrome&type=ws&host=tr-direct2.relaynet.online&path=%2F#TR-%F0%9F%87%A9%F0%9F%87%B0-%E2%9A%9C%EF%B8%8F
 trojan://U4nVcSrlhM@abi.relaynet.online:2087?security=tls&sni=tr-de2.relaynet.online&fp=chrome&type=ws&host=tr-de2.relaynet.online&path=%2F#TR-%F0%9F%87%AB%F0%9F%87%AE-CDN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYd1dWUm1PMmtLdTZxSzFYbGloM0xmZTZMaDNSUmE5cg==@direct2.relaynet.online:8388#Direct2
