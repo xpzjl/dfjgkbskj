@@ -1,4 +1,4 @@
-trojan://jagoanssh-Relaynet@abi.relaynet.online:443?security=tls&sni=tr-de-js.relaynet.online&type=ws&host=tr-de-js.relaynet.online&path=%2Ftrojan#Tr-%F0%9F%87%AB%F0%9F%87%B7-%E2%9A%9C%EF%B8%8F
+trojan://HcUBpEEe7-eLX-vGlsXtLw@tr-direct-sg.relaynet.online:2083?type=ws&host=tr-direct-sg.relaynet.online&security=tls&sni=tr-direct-sg.relaynet.online#Tr-%F0%9F%87%B8%F0%9F%87%AC-%E2%9A%9C%EF%B8%8F
 vless://ee61e1ed-5ef2-4f4f-9607-0e98ba648289@vl-real.relaynet.online:50826?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=discord.com&pbk=1rBainssU0b7YBuC5XRzvQMgCEntSVQ3YHj21XdRyBM&sid=4c10a7d8#Direct3
 trojan://2@tr-de3.relaynet.online:2095?type=ws&host=tr-de3.relaynet.online&path=/&security=none#TR-%F0%9F%87%A9%F0%9F%87%AA-CDN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1RURCVWZMMlEwYlZxNDMyWFhvNUtF@direct2.relaynet.online:51348?type=tcp#Direct2
