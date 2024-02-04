@@ -6,3 +6,4 @@ trojan://7f620353-4743-41f7-9cfc-295ba641e54a@abi.relaynet.online:443?security=t
 trojan://21a6b1aa-a51c-44ad-9ed0-5434cf4e18d0@abi.relaynet.online:443?security=tls&sni=trfrsso.relaynet.online&type=ws&host=trfrsso.relaynet.online&path=%2FTR-%F0%9F%87%AB%F0%9F%87%B7-%E2%9A%9C%EF%B8%8F#ServerServer%2FTR-%F0%9F%87%AB%F0%9F%87%B7-%E2%9A%9C%EF%B8%8F
 trojan://278a91a4-c43d-4900-9c41-e4e0acadc243@abi.relaynet.online:443?security=tls&sni=/TR-🇳🇱-⚜️&type=ws&host=trnlssm.relaynet.online&path=%2F0201205857%2Fdaei.relaynet.online#ServerServer%2FTR-%F0%9F%87%B3%F0%9F%87%B1-%E2%9A%9C%EF%B8%8F
 trojan://a1eaf66b-7c73-42dc-b93a-4b27e93c1ce8@abi.relaynet.online:443?security=tls&sni=truksso.relaynet.online&type=ws&host=truksso.relaynet.online&path=%2FTR-%F0%9F%87%AC%F0%9F%87%A7-%E2%9A%9C%EF%B8%8F#ServerServer%2FTR-%F0%9F%87%AC%F0%9F%87%A7-%E2%9A%9C%EF%B8%8F
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZW9iWHlWbGxEN0FTZENHUmhYNlYy@direct-1.relaynet.online:64726?type=tcp#Direct1
