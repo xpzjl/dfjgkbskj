@@ -1,4 +1,4 @@
-
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJQ1RPdFJPanJBcUlvdHNFWVRHOE5j@direct-4.relaynet.online:443?type=tcp#%F0%9F%87%A8%F0%9F%87%A6CA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5OGM4MTZjOTVlYzFjNzcx@direct-2.relaynet.online:57456?type=tcp#%F0%9F%87%AC%F0%9F%87%A7GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppNm1ZMzhLMm1yWENOR0MyUlhBcE1I@direct-3.relaynet.online:15268?type=tcp#%F0%9F%87%AC%F0%9F%87%A7GB-2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplemVzQlhlc2YzUktCQ3AxdnFLdUl4@direct-1.relaynet.online:8080?type=tcp#%F0%9F%87%B3%F0%9F%87%B1NL
