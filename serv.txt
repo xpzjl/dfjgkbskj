@@ -1,5 +1,5 @@
 vless://352f8151-f56f-4858-a855-b338e3053e6d@direct-mci-ir2.relaynet.online:2087?type=tcp&security=reality&fp=chrome&sni=www.speedtest.net&pbk=2-t9uUzRV61JYk2SuEzWmNuKgh_lG5IteIJ_pHPcPWM&sid=21e8adbf#%F0%9F%87%AE%F0%9F%87%B7IR-hamrah2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprVGpsTHhybmNLeDRpMkhJanhmQTNN@direct-4-gb.relaynet.online:49499?type=tcp#%F0%9F%87%AC%F0%9F%87%A7GB-3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppNm1ZMzhLMm1yWENOR0MyUlhBcE1I@direct-gb2.relaynet.online:15268?type=tcp#%F0%9F%87%AC%F0%9F%87%A7GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvbHVwY1lyWGh3MUtKUzVoODFMMEtZ@direct-3-sw.relaynet.online:48912?type=tcp#%F0%9F%87%B8%F0%9F%87%AASE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSa2xmNlFQazRNaE91cWg0bEVsQXZn@direct-1.relaynet.online:1080?type=tcp#%F0%9F%87%B9%F0%9F%87%B7TR
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLMjI3c1V2b0lJNGlMZkpKNFUwTExP@direct-gb.relaynet.online:13499?type=tcp#%F0%9F%87%AC%F0%9F%87%A7GB
