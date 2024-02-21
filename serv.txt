@@ -2,7 +2,7 @@ vless://352f8151-f56f-4858-a855-b338e3053e6d@direct-mci-ir2.relaynet.online:2087
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprVGpsTHhybmNLeDRpMkhJanhmQTNN@direct-4-gb.relaynet.online:49499?type=tcp#%F0%9F%87%AC%F0%9F%87%A7GB-3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvbHVwY1lyWGh3MUtKUzVoODFMMEtZ@direct-3-sw.relaynet.online:48912?type=tcp#%F0%9F%87%B8%F0%9F%87%AASE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSa2xmNlFQazRNaE91cWg0bEVsQXZn@direct-1.relaynet.online:1080?type=tcp#%F0%9F%87%B9%F0%9F%87%B7TR
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1aWkxNmZtUFRtczhpY1luWXZ4VWZh@direct-6-gb.relaynet.online:32790?type=tcp#%F0%9F%87%AC%F0%9F%87%A7GB-6
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLMjI3c1V2b0lJNGlMZkpKNFUwTExP@direct-gb.relaynet.online:13499?type=tcp#%F0%9F%87%AC%F0%9F%87%A7GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEbU1RVW1JN3BnUURucldxTFhDMDBM@direct-5.relaynet.online:15214?type=tcp#%F0%9F%87%B5%F0%9F%87%B1PL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnNERNUm50cUpRNmVrMGpmZlh3eWJ5@direct-7-de.relaynet.online:443?type=tcp#%F0%9F%87%A9%F0%9F%87%AADE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6eEJENXZhdDVBZ0kzeHVkMFg4ekxn@direct-mci-ir.relaynet.online:321?type=tcp#%F0%9F%87%AE%F0%9F%87%B7IR-hamrah
