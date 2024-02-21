@@ -6,3 +6,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1aWkxNmZtUFRtczhpY1luWXZ4VWZh@direct-6-gb.re
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEbU1RVW1JN3BnUURucldxTFhDMDBM@direct-5.relaynet.online:15214?type=tcp#%F0%9F%87%B5%F0%9F%87%B1PL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxR2ptSThXUWxGMHRmaERia0xxR2RO@direct-7-us.relaynet.online:8080?type=tcp#%F0%9F%87%BA%F0%9F%87%B8US%207
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6eEJENXZhdDVBZ0kzeHVkMFg4ekxn@direct-mci-ir.relaynet.online:321?type=tcp#%F0%9F%87%AE%F0%9F%87%B7IR-hamrah
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCU0dIU2VWcXF4MG9CbUVHUzQzRE5R@direct-mci-ir.relaynet.online:414?type=tcp#%F0%9F%87%AE%F0%9F%87%B7IR-hamrah%203
