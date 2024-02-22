@@ -1,9 +1,9 @@
 vless://352f8151-f56f-4858-a855-b338e3053e6d@direct-mci-ir2.relaynet.online:2087?type=tcp&security=reality&fp=chrome&sni=www.speedtest.net&pbk=2-t9uUzRV61JYk2SuEzWmNuKgh_lG5IteIJ_pHPcPWM&sid=21e8adbf#%F0%9F%87%AE%F0%9F%87%B7IR-hamrah2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppNm1ZMzhLMm1yWENOR0MyUlhBcE1I@direct-gb2.relaynet.online:15268?type=tcp#%F0%9F%87%AC%F0%9F%87%A7GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvbHVwY1lyWGh3MUtKUzVoODFMMEtZ@direct-3-sw.relaynet.online:48912?type=tcp#%F0%9F%87%B8%F0%9F%87%AASE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSa2xmNlFQazRNaE91cWg0bEVsQXZn@direct-1.relaynet.online:1080?type=tcp#%F0%9F%87%B9%F0%9F%87%B7TR
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@direct-1-at.relaynet.online:2927?type=tcp#%F0%9F%87%A6%F0%9F%87%B9AT
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLMjI3c1V2b0lJNGlMZkpKNFUwTExP@direct-gb.relaynet.online:13499?type=tcp#%F0%9F%87%AC%F0%9F%87%A7GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEbU1RVW1JN3BnUURucldxTFhDMDBM@direct-5.relaynet.online:15214?type=tcp#%F0%9F%87%B5%F0%9F%87%B1PL
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnNERNUm50cUpRNmVrMGpmZlh3eWJ5@direct-7-de.relaynet.online:443?type=tcp#%F0%9F%87%A9%F0%9F%87%AADE
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpidHptcEw3YU9zN1liY0xTNEluNllY@direct-7-fi.relaynet.online:7150?type=tcp#%F0%9F%87%AB%F0%9F%87%AEFI
 vless://864462e2-ebcc-464f-9004-36330ac3c824@direct-mci-1.relaynet.online:443?type=tcp&security=reality&fp=chrome&sni=telewebion.ir&pbk=lJNojEJZOuS4q7sIuvh8hXbfA1OQDNB2VYlobAy6mng&sid=f5c9bd4c#%F0%9F%87%AE%F0%9F%87%B7IR-hamrah1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCU0dIU2VWcXF4MG9CbUVHUzQzRE5R@direct-mci-ir.relaynet.online:414?type=tcp#%F0%9F%87%AE%F0%9F%87%B7IR-hamrah%203
