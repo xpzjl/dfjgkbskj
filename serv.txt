@@ -1,8 +1,8 @@
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@direct-fr.relaynet.online:5498?type=tcp#%F0%9F%87%AB%F0%9F%87%B7FR
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvbHVwY1lyWGh3MUtKUzVoODFMMEtZ@direct-3-sw.relaynet.online:48912?type=tcp#%F0%9F%87%B8%F0%9F%87%AASE
+ss://ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFVHQ4dlk4SGJQd09mazIxYzNpMTNo@direct-sw.relaynet.online:37219?type=tcp#%F0%9F%87%B8%F0%9F%87%AASE@direct-3-sw.relaynet.online:48912?type=tcp#%F0%9F%87%B8%F0%9F%87%AASE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@direct-1-at.relaynet.online:2927?type=tcp#%F0%9F%87%A6%F0%9F%87%B9AT
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozLS1WSUdQU0w3UnJHRTVLa0EtOVNn@direct-fi.relaynet.online:5614?type=tcp#%F0%9F%87%AB%F0%9F%87%AEFI2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYbFVGZ29PcURsVnFsWkZEM0pzMFlB@direct-nl.relaynet.online:8080?type=tcp#%F0%9F%87%B3%F0%9F%87%B1NL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEbU1RVW1JN3BnUURucldxTFhDMDBM@direct-5.relaynet.online:15214?type=tcp#%F0%9F%87%B5%F0%9F%87%B1PL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpidHptcEw3YU9zN1liY0xTNEluNllY@direct-7-fi.relaynet.online:7150?type=tcp#%F0%9F%87%AB%F0%9F%87%AEFI
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKcnJIQjN6YmV4T3JJc3BEM2JreWRDSWdNM0pKT2crbWJXT1prdURSbG5BPQ==@direct-tr.relaynet.online:16177?type=tcp#%F0%9F%87%B9%F0%9F%87%B7TR
+ss://YWVzLTEyOC1nY206VEVMRUdSQU06QFpFRE1PREVPTi1URUxFR1JBTTpAWkVETU9ERU9OLVRFTEVHUkFNOkBaRURNT0RFT04sVEVMRUdSQU06QFpFRE1PREVPTg==@direct-de.relaynet.online:38818?type=tcp#%F0%9F%87%A9%F0%9F%87%AADE
 
