@@ -4,5 +4,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@direct-1-at.re
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLMjI3c1V2b0lJNGlMZkpKNFUwTExP@direct-gb.relaynet.online:13499?type=tcp#%F0%9F%87%AC%F0%9F%87%A7GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEbU1RVW1JN3BnUURucldxTFhDMDBM@direct-5.relaynet.online:15214?type=tcp#%F0%9F%87%B5%F0%9F%87%B1PL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpidHptcEw3YU9zN1liY0xTNEluNllY@direct-7-fi.relaynet.online:7150?type=tcp#%F0%9F%87%AB%F0%9F%87%AEFI
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxcW1wd1J1WXBzSkJVWG5aemgweWpOYjV2cnN2OXI5eUU3bWIwdlN3emF3PQ==@direct-tr.relaynet.online:37661?type=tcp#%F0%9F%87%B9%F0%9F%87%B7TR
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKcnJIQjN6YmV4T3JJc3BEM2JreWRDSWdNM0pKT2crbWJXT1prdURSbG5BPQ==@direct-tr.relaynet.online:16177?type=tcp#%F0%9F%87%B9%F0%9F%87%B7TR
 
