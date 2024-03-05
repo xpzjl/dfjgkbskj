@@ -1,4 +1,4 @@
-vless://4cd42ae0-ba4f-4142-a721-3e513c887c22@direct-ir2.relaynet.online:55042?type=tcp&headerType=http&host=www.speedtest.net&path=/&security=none#%F0%9F%87%AE%F0%9F%87%B7IR2
+vless://e49d8fce-3c2d-4455-e809-7a6ff6522f75@direct-ir2.relaynet.online:47734?type=ws&path=/&security=none#%F0%9F%87%AE%F0%9F%87%B7IR2
 vless://626f9b9e-ff4a-4122-9230-80180a8bc789@direct-ir.relaynet.online:80?type=ws&path=/&security=none#%F0%9F%87%AE%F0%9F%87%B7IR
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@direct-fr.relaynet.online:5498?type=tcp#%F0%9F%87%AB%F0%9F%87%B7FR
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFVHQ4dlk4SGJQd09mazIxYzNpMTNo@direct-sw.relaynet.online:37219?type=tcp#%F0%9F%87%B8%F0%9F%87%AASE
