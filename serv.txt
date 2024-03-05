@@ -1,5 +1,6 @@
 vless://e49d8fce-3c2d-4455-e809-7a6ff6522f75@direct-ir2.relaynet.online:47734?type=ws&path=/&security=none#%F0%9F%87%AE%F0%9F%87%B7IR2
-vless://626f9b9e-ff4a-4122-9230-80180a8bc789@direct-ir.relaynet.online:80?type=ws&path=/&security=none#%F0%9F%87%AE%F0%9F%87%B7IR
+vless://6ddb10fb-1e64-4d92-ebb5-cd411472bfc3@direct-ir.relaynet.online:2083?type=tcp&headerType=http&host=speedtest.net&security=none#%F0%9F%87%AE%F0%9F%87%B7IR
+vless://71ff9718-9614-40c5-8afc-c54d5982000e@direct-ir3.relaynet.online:42870?type=tcp&security=none#%F0%9F%87%AE%F0%9F%87%B7IR3
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@direct-fr.relaynet.online:5498?type=tcp#%F0%9F%87%AB%F0%9F%87%B7FR
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFVHQ4dlk4SGJQd09mazIxYzNpMTNo@direct-sw.relaynet.online:37219?type=tcp#%F0%9F%87%B8%F0%9F%87%AASE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@direct-1-at.relaynet.online:2927?type=tcp#%F0%9F%87%A6%F0%9F%87%B9AT
