@@ -1,6 +1,6 @@
-vless://7d370c34-bcec-4cff-a39b-518bc0ab4854@direct-ir-1.relaynet.online:443?type=grpc&mode=gun&security=tls&fp=chrome&sni=zac1.striside.com#%F0%9F%87%AE%F0%9F%87%B7IR1
-vless://66859293-5d71-4c95-8c2b-9e9cc95a2646@direct-ir-2.relaynet.online:48287?type=ws&path=/&security=none#%F0%9F%87%AE%F0%9F%87%B7IR2
-vless://27582bc5-3cef-4197-b963-c8ac2c6e7e2b@85.9.97.152:443?type=ws&path=/gozar&security=tls&fp=randomized&sni=srv.oboor.xyz#%F0%9F%87%AE%F0%9F%87%B7IR3
+vless://66528e20-d02f-449e-b642-6f8ab541125c@direct-ir1.relaynet.online:2086?type=ws&host=speedtest.net&path=/&security=none#%F0%9F%87%AE%F0%9F%87%B7IR1
+vless://6b469be7-0214-4adf-afeb-6caa874ca15a@direct-ir2.relaynet.online:2083?type=tcp&headerType=http&host=speedtest.net&security=none#%F0%9F%87%AE%F0%9F%87%B7IR2
+vless://3687c4be-fa3e-498f-b27a-220833e5aa7c@direct-ir-3.relaynet.online:8080?type=tcp&headerType=http&host=telewebion.com&security=none#%F0%9F%87%AE%F0%9F%87%B7IR3
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@direct-fr.relaynet.online:5498?type=tcp#%F0%9F%87%AB%F0%9F%87%B7FR
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFVHQ4dlk4SGJQd09mazIxYzNpMTNo@direct-sw.relaynet.online:37219?type=tcp#%F0%9F%87%B8%F0%9F%87%AASE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@direct-1-at.relaynet.online:2927?type=tcp#%F0%9F%87%A6%F0%9F%87%B9AT
