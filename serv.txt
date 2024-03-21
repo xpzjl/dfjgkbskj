@@ -1,6 +1,7 @@
 vless://8aacaf3f-caf0-4fab-8b0c-dd0391dcaeaa@79.175.157.25:59491?type=tcp&headerType=http&security=none#%F0%9F%94%92VL-TCP-NONE%F0%9F%87%AE%F0%9F%87%B7IR-79.175.157.25:59491%F0%9F%93%A1PING-220.52-MS
 vless://4d8fb54d-b00e-4c83-9830-1029c56e6108@2.189.130.80:22879?type=ws&path=/&security=none#%F0%9F%94%92VL-WS-NONE%F0%9F%87%AE%F0%9F%87%B7IR-2.189.130.80:22879%F0%9F%93%A1PING-250.42-MS
-vless://b49bef94-22f4-428a-9408-ca7709da4e99@94.182.170.156:10269?type=tcp&headerType=http&security=none#%F0%9F%94%92VL-TCP-NONE%F0%9F%87%AE%F0%9F%87%B7IR-94.182.170.156:10269%F0%9F%93%A1PING-220.92-MS
+vless://0969612a-8262-421f-b8bf-f3701d2f10f4@92.114.17.31:24277?type=tcp&headerType=http&host=fast.com&security=none#%F0%9F%94%92VL-TCP-NONE%F0%9F%87%AE%F0%9F%87%B7IR-92.114.17.31:24277%F0%9F%93%A1PING-241.15-MS
+vless://7800ef3f-2cb4-4f45-f893-5ba33bd38cb5@62.60.172.231:2052?type=tcp&headerType=http&host=speedtest.net&security=none#%F0%9F%94%92VL-TCP-NONE%F0%9F%87%AE%F0%9F%87%B7IR-62.60.172.231:2052%F0%9F%93%A1PING-234.30-MS
 vless://ac6db4ff-9c6e-4d88-b578-43435f1f8d98@62.60.132.138:8096?type=tcp&headerType=http&security=none#%F0%9F%94%92VL-TCP-NONE%F0%9F%87%AE%F0%9F%87%B7IR-62.60.132.138:8096%F0%9F%93%A1PING-229.38-MS
 vless://7730f3c5-6957-4832-91bb-ca9baef1dc7b@85.198.14.35:58212?type=tcp&headerType=http&host=www.speedtest.net&path=/&security=none#%F0%9F%94%92VL-TCP-NONE%F0%9F%87%AE%F0%9F%87%B7IR-85.198.14.35:58212%F0%9F%93%A1PING-256.98-MS
 vless://d8253715-9664-4c3b-9ecd-e4805c8430f8@37.59.166.156:48576?type=grpc&mode=gun&security=reality&fp=chrome&sni=ea.com&pbk=i-TBCDM3b7W2NE5JavNy7XBTsQwIjYD7qG9VEVfnxjg&sid=b1b454f6#%F0%9F%94%92VL-GRPC-RLT%F0%9F%87%AB%F0%9F%87%B7FR-37.59.166.156:48576%F0%9F%93%A1PING-143.38-MS
