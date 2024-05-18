@@ -1,7 +1,6 @@
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.81:8090#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-23.157.40.81%3A8090%20%F0%9F%93%A1%20PING-093.78-MS
 vless://1b070edc-c495-4c85-9606-3a4859ba67a3@91.193.18.39:8080?encryption=none&flow=xtls-rprx-vision&security=reality&sni=mdundo.com&fp=chrome&pbk=-fApsCDQMQF6eep_R8ts4k-rS_oXvj2arybaiS21lQE&sid=98f20c01&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-RLT%20%F0%9F%87%B5%F0%9F%87%B1%20PL-91.193.18.39%3A8080%20%F0%9F%93%A1%20PING-121.00-MS
 vless://1949f066-bcb0-49be-88e9-74abd940f80e@51.75.30.8:80?encryption=none&security=none&type=ws&path=%2Fhttp#%F0%9F%94%92%20VL-WS-NA%20%F0%9F%87%AB%F0%9F%87%B7%20FR-51.75.30.8%3A80%20%F0%9F%93%A1%20PING-148.82-MS
-trojan://6533c19c-c2dc-404a-9ad0-40c7d0e2e77a@turkey-sso.relaynet.online:443?security=tls&sni=turkey-sso.relaynet.online&type=ws&host=turkey-sso.relaynet.online&path=%2Fwebsocket#sshocean-kernhpekbn_ws
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.110.1.43:7307#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-38.110.1.43%3A7307%20%F0%9F%93%A1%20PING-027.23-MS
 vless://4ad7a8cf-bd7a-4da0-b862-c0b6f91ab583@51.75.30.8:443?encryption=none&security=tls&sni=fr.vpnbase.net&type=ws&path=%2Fssl#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%AB%F0%9F%87%B7%20FR-51.75.30.8%3A443%20%F0%9F%93%A1%20PING-154.39-MS
 vless://757b7d1d-f43c-4c05-90b1-6227de39b175@49.13.225.84:2096?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%A9%F0%9F%87%AA%20DE-49.13.225.84%3A2096%20%F0%9F%93%A1%20PING-140.10-MS
