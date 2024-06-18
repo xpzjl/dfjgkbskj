@@ -6,7 +6,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNemxqTURaaA==@185.231.205.80:8388#SS-ssm-FRA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR0V4TkdFNA==@94.131.111.32:8388#SS-ssm-GERMANY
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamsxT1RVMA==@91.194.161.7:8388#SS-ssm-ICELAND
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR014WXpKaQ==@95.164.37.226:8388#SS-ssm-UNITEDKINGDOM
-vless://b16721a5-b18e-4517-afff-b59c1db7da55@135.181.101.223:8080?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AB%F0%9F%87%AE%20FI-135.181.101.223%3A8080
 vless://711454ef-ee37-47ab-db7f-9133610c9e0d@95.217.17.242:22555?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NA%20%F0%9F%87%AB%F0%9F%87%AE%20FI-95.217.17.242%3A22555
 vless://c54dd620-fa5f-46de-82c2-9d1492ee74e4@103.98.215.248:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=tor2.jarviskit.com&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-TLS%20%F0%9F%87%A8%F0%9F%87%A6%20CA-103.98.215.248%3A443
 vless://69e25d5b-309f-429e-ba38-212465c534b0@65.21.2.49:46928?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NA%20%F0%9F%87%AB%F0%9F%87%AE%20FI-65.21.2.49%3A46928
