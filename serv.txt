@@ -23,9 +23,5 @@ vless://44c6e217-7e65-4cfd-b1ad-df48a6085c86@157.254.21.242:33600?encryption=non
 vless://1149be91-5a4f-47de-995f-66f8d7d64498@92.246.136.89:1234?encryption=none&security=reality&sni=www.icloud.com&fp=chrome&pbk=L2b7MW4F9bT8ALwebQtCbXGTaH5sl9o97BxmynrlxHo&sid=8f90c18dc7b2652b&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-RLT%20%F0%9F%87%A9%F0%9F%87%AA%20DE-92.246.136.89%3A1234
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.17.147.11:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=6b777a91#VL-Dallas-23.150.248.50
 hysteria2://8c634f75-96bb-4e68-9ea6-91457a85ab8f@37.114.60.196:40443/?sni=dxobg4azmk.gafnode.sbs&insecure=0#Amsterdam-2
-hysteria2://12a5b23b-e78d-41a1-bba3-ec6cb68d17cc@152.53.0.187:40443/?sni=dxobg4azmk.gafnode.sbs&insecure=0#Wien-1
-hysteria2://8c634f75-96bb-4e68-9ea6-91457a85ab8f@152.53.0.187:40443/?sni=dxobg4azmk.gafnode.sbs&insecure=0#Wien-2
-hysteria2://c480f565-bb32-4203-b51f-f941185a794c@152.53.0.187:40443/?sni=dxobg4azmk.gafnode.sbs&insecure=0#Wien-3
-hysteria2://c480f565-bb32-4203-b51f-f941185a794c@45.142.113.238:40443/?sni=dxobg4azmk.gafnode.sbs&insecure=0#Frankfurt-3
-hysteria2://12a5b23b-e78d-41a1-bba3-ec6cb68d17cc@45.142.113.238:40443/?sni=dxobg4azmk.gafnode.sbs&insecure=0#Frankfurt-1
 hysteria2://c480f565-bb32-4203-b51f-f941185a794c@37.114.60.196:40443/?sni=dxobg4azmk.gafnode.sbs&insecure=0#Amsterdam-3
+hysteria2://8c634f75-96bb-4e68-9ea6-91457a85ab8f@37.114.60.196:40443/?sni=dxobg4azmk.gafnode.sbs&insecure=0#Amsterdam-1
